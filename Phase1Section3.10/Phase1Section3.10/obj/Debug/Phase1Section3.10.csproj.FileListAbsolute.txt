@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.exe.config
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.exe
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\bin\Debug\Phase1Section3.10.pdb
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.exe
+D:\Mphasis\.net\Practice Project\Phase1Section3.10\Phase1Section3.10\obj\Debug\Phase1Section3.10.pdb
